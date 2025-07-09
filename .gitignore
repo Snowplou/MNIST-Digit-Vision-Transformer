@@ -1,0 +1,7 @@
+train_dataset.pt
+test_dataset.pt
+train.csv
+test.csv
+submission.csv
+digit_model.pth
+models/
