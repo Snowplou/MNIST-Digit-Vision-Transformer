@@ -11,4 +11,4 @@ Gets the model's predictions for the test dataset from the [Kaggle competition](
 Selects an image from the train dataset and outputs the predicted and true label to better understand what mistakes the AI is making on the data it was trained on.
 
 # [Train.py](train.py)
-Trains the vision transformer and saves the model.
+Trains the vision transformer and saves the model. The model already provided in this repository was trained on the dataset from this [Kaggle competition](https://www.kaggle.com/competitions/digit-recognizer).
