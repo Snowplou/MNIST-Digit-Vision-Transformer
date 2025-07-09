@@ -7,7 +7,7 @@ from dataset import *
 from model import *
 
 # --- Configuration ---
-# Use a cpu to make it easier to run since run.py doesn't need to be fast
+# Use the cpu to make the program guranteed to run on all devices since interactive.py doesn't need to run extremely fast
 device ="cpu"
 print(f"Using device: {device}")
 
